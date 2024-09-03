@@ -1,2 +1,2 @@
 # wikiProxy
-A Proxy tools based on Python3 and F---- for futurerestore local firmware keys fetching. Via theAppleWiki.com
+A firmware keys server Proxy tools for futurerestore based on Python3 and Flask. Via theapplewiki.com for local firmware keys fetching.
